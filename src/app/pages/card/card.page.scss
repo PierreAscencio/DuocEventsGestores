@@ -1,0 +1,45 @@
+.boton{
+    --background: #00ffd5;
+    --background-hover: #9ce0be;
+    --background-activated: #dee4ab;
+    --background-focused: #c8de05;
+  
+    --color: rgb(0, 0, 0);
+  
+    --border-radius: 15px;
+    --border-color: #000;
+    --border-style: solid;
+    --border-width: 1px;
+}
+#menucolor{
+    
+    color: #0004ff;
+    
+}
+#menucolor1{
+    margin-left: 25%;
+    color: #0004ff;
+    
+}
+
+#botongod{
+    margin-top: 25px;
+    max-width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    
+}
+#titulo{
+    text-align: center;
+    color: #0004ff;
+}
+.titulo {
+    text-align: center;
+    font-family: 'titulo', sans-serif;
+    --color: #0004ff;
+  }
+
+
+  .texto {
+    font-family: 'texto', serif;
+  }

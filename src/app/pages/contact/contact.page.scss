@@ -1,0 +1,37 @@
+#bcentrar{
+
+    text-align: center;
+
+    --background: #000000;
+    --background-hover: #000000;
+    --background-activated: #000000;
+    --background-focused: #000000;
+
+    --color: #0004ff;
+
+    --border-radius: 15px;
+    --border-color: #000;
+    --border-style: solid;
+    --border-width: 1px;
+
+    --padding-top: 10px;
+    --padding-bottom: 15px;
+}
+
+#centrar{
+    text-align: center;
+}
+#titulo{
+    text-align: center;
+    color: #0004ff;
+}
+.titulo {
+    text-align: center;
+    font-family: 'titulo', sans-serif;
+    --color: #0004ff;
+  }
+
+
+  .texto {
+    font-family: 'texto', serif;
+  }
